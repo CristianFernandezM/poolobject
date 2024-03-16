@@ -5,7 +5,6 @@ poolobject
 [![Java CI](https://github.com/CristianFernandezM/poolobject/actions/workflows/ci_jdk1.8_build_test.yml/badge.svg)](https://github.com/CristianFernandezM/poolobject/actions/workflows/ci_jdk1.8_build_test.yml) 
 [![codecov](https://codecov.io/gh/CristianFernandezM/poolobject/graph/badge.svg?token=NvQ17D5kct)](https://codecov.io/gh/CristianFernandezM/poolobject)
 [![Maintainability](https://api.codeclimate.com/v1/badges/dff0825f3e45429fa422/maintainability)](https://codeclimate.com/github/CristianFernandezM/poolobject/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/dff0825f3e45429fa422/test_coverage)](https://codeclimate.com/github/CristianFernandezM/poolobject/test_coverage)
 
 Java code example of creational design pattern pool object
 
